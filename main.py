@@ -8,7 +8,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='/', intents=intents)
 
-discord_token = 'MTE5Mzk4MzQ1OTQ3MTkyOTQ0NA.G1gcpv.B0s26K06WKJRhxJ5Oc3j4dxfFjzaWbp_d83suQ'
+discord_token = #insert discordBot token here
 
 @bot.command()
 async def moves(ctx,*,texto):
